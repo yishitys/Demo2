@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 public class HelloWorld {
         public static void main(String[] args) {
             while(true) {
@@ -5,3 +6,4 @@ public class HelloWorld {
             }
         }
 }
+// Create an empty function return void, not parameter.
